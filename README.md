@@ -10,8 +10,8 @@ I haven't been impressed with the "git clients for android", and I often like to
 4. In GitJournal: Settings -> Storage & File Formats -> Store Repo Externally -> Select folder under "Documents"
 
 ## Test that it can pick up on external .md files 
-6. In Files app: duplicate an existing file
-7. Open GitJournal. Is the file shown?
+1. In Files app: duplicate an existing file
+2. Open GitJournal. Is the file shown?
 
 **no**
 
