@@ -15,3 +15,6 @@ I haven't been impressed with the "git clients for android", and I often like to
 
 **no**
 
+3. Create a new note in GitJournal. Does our duplicated file get included?
+
+**[New note shows up](https://github.com/tedbrandston/test-gitjournal/commit/6459cb0390f5916999c9aa81d28617aaf8357dff), but not duplicated one.**
